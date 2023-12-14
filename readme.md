@@ -1,13 +1,13 @@
 # Giới thiệu
 
-Repo là các bài tập từ đầu của học phần thiết kế website 
-Hướng dẫn bởi GVC.TS. Trần Trung Chuyên
+Repo là các bài tập từ đầu của học phần thiết kế website.
+Hướng dẫn bởi ######GVC.TS. Trần Trung Chuyên
 
 ## Mô tả
 
-Trang website cá nhân lấy từ w3school template
 
+Trang website cá nhân lấy từ w3school template
 ```bash
-pip install foobar
+git clone git@github.com:whysoez/web_design.git
 ```
-<img alt="GitPoint" title="GitPoint" src="http://i.imgur.com/VShxJHs.png" width="450">
+<img alt="GitPoint" title="GitPoint" src="./w3images/demo_web.png" width="450">
